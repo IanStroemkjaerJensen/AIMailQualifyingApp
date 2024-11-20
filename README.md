@@ -10,7 +10,7 @@
 Webapp that can take an input of customer mails and analyze and qualify the content, written as a microservice that we tried to make follow the Clean Architecture domain driven principles
 
 # Prerequisites 
-You will need a windows machine, visual studio (not code), a browser and creating an appsettings json file in the Care.Web.Common folder with your own parameters, models and licence/API key for use of OpenAI's API.
+You will need a windows machine, visual studio (not code), a browser and creating an appsettings json file in the Care.Web.Common folder with your own parameters, models and licence/API key for use of OpenAI's API, since i haven't uploaded that file due to it containing confidential company data and secrets
 
 # Usage
 
